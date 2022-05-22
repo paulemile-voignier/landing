@@ -1,0 +1,32 @@
+.avatar{
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+    border: 3px solid black;
+}
+
+.avatars{
+	
+	overflow:hidden;
+	display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+
+}
+    
+.paulemile{
+	margin: 0px 30px;
+}
+
+.elon{
+	margin: 0px 30px;
+}
+
+.jeff{
+	margin: 0px 30px;
+}
+
+.thomas{
+	margin: 0px 30px;
+}
+
